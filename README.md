@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaypal912
-- 👀 I’m interested in yhr field of data science
+- 👀 I’m interested in the field of data science
 - 🌱 I’m currently learning python in data science
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
