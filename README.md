@@ -38,13 +38,6 @@ Analyzed how the Bitcoin Fear & Greed Index impacts trader behavior and profitab
 
 ---
 
-## 📈 GitHub Stats
-
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshaypal912&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypal912&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-pal-aa7944322/)
