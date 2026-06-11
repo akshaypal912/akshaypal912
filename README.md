@@ -1,6 +1,6 @@
 # Hi, I'm Akshay Pal 👋
 
-### Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning
+### Data Analyst | Python • SQL • Power BI • Machine Learning
 
 I'm a fresher passionate about turning raw data into actionable insights. I enjoy working across the full analytics pipeline — from data cleaning and exploration to building dashboards and predictive models.
 
