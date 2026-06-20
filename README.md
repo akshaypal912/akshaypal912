@@ -45,4 +45,4 @@ Analyzed how the Bitcoin Fear & Greed Index impacts trader behavior and profitab
 
 ---
 
-*Open to Data Analyst roles — feel free to reach out!*
+*Open to Data Analyst roles , feel free to reach out!*
