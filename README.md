@@ -2,7 +2,7 @@
 
 ### Data Analyst | Python • SQL • Power BI • Machine Learning
 
-I'm a fresher passionate about turning raw data into actionable insights. I enjoy working across the full analytics pipeline — from data cleaning and exploration to building dashboards and predictive models.
+I'm a fresher passionate about turning raw data into actionable insights. I enjoy working across the full analytics pipeline , from data cleaning and exploration to building dashboards and predictive models.
 
 ---
 
