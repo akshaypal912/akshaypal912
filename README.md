@@ -47,20 +47,41 @@
 
 ## 🚀 Featured Projects
 
-### 📊 [Project Name 1](https://github.com/akshaypal/)
-> Brief description of the project — what data was analyzed, what insights were found.
-- **Tools:** Python, Pandas, Matplotlib
-- **Highlights:** Key finding or result
+### 📊 [Music-Stream-DataEngineer-project]https://github.com/akshaypal912/Music-Stream-DataEngineer-project
+> Brief description of the project — This project demonstrates a production-style Data Engineering workflow , from raw CSV ingestion through Python-based data cleaning, cloud database loading on AWS EC2, and advanced SQL analytics on a music streaming dataset.
 
-### 📈 [Project Name 2](https://github.com/akshaypal/project2)
-> Brief description of the project — what problem it solved or what trend it uncovered.
-- **Tools:** Python, Seaborn, SQL
-- **Highlights:** Key finding or result
+Goal: Build a complete data pipeline for a music streaming platform , ingest raw play data, clean it programmatically with Python & Pandas, load it into a cloud-hosted PostgreSQL database, and extract meaningful insights using SQL joins, aggregations, and window functions.
+- **Tools:** Python PostgreSQL AWS Pandas SQL GitHub
+- **Highlights:** Metric	Value
+Raw play records loaded	14
+Duplicates removed	1
+NULL rows dropped	2
+Bad timestamps dropped	1
+Clean records loaded to DB	10
+SQL queries written	7 (5 core + 2 bonus)
+Database tables	3
+Indexes created	3
 
-### 🔍 [Project Name 3](https://github.com/akshaypal/project3)
-> Brief description of the project — dashboard, EDA, or predictive model.
-- **Tools:** Python, Jupyter, Power BI
-- **Highlights:** Key finding or result
+
+### 📈 [End-to-End-E-commerce-Revenue-Intelligence-and-Analytics-Pipeline]https://github.com/akshaypal912/End-to-End-E-commerce-Revenue-Intelligence-and-Analytics-Pipeline
+> This project simulates a real-world business intelligence workflow from raw data ingestion to executive-level dashboard reporting. It covers the complete analytics stack — data engineering, SQL analytics, business KPIs, customer segmentation, and revenue forecasting.
+
+Dataset: 5,000 synthetic sales transactions | 30 products | 2,859 unique customers | May 2025 – May 2026
+- **Tools:** Python PostgreSQL Power BI SQL ETL Status
+- **Highlights:** Increase inventory for top-selling furniture products to meet consistent demand
+Launch targeted promotions during low-performing months (March, November) to boost revenue
+Reduce revenue concentration risk — diversify product mix beyond top 5 products
+Improve forecasting model by incorporating external variables like discount rates, marketing spend, and seasonal events
+
+
+### 🔍 [trader_sentiment_analysis]https://github.com/akshaypal912/trader_sentiment_analysis
+> Brief description of the project — Understand whether market sentiment — Fear, Neutral, or Greed — has a measurable impact on trader PnL, win rate, and trade size. The goal is to extract actionable strategy insights from real trading data.
+- **Tools:** Python Power BI Pandas Jupyter Status
+- **Highlights:** 📈 Greed periods → higher average PnL and win probability
+📉 Fear periods → higher losses, lower win rate, elevated risk
+💰 Large trades generate significantly higher returns than small trades
+⚖️ Neutral markets → stable but moderate performance
+⚠️ Losses dominate during Fear sentiment — risk management is critical
 
 ---
 
