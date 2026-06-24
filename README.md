@@ -17,7 +17,7 @@
 - 📈 I love transforming raw data into actionable insights and beautiful dashboards
 - 🌱 Always learning — currently exploring **Machine Learning & Predictive Analytics**
 - 💬 Ask me about **Python, Data Analysis, SQL, or Data Visualization**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **palakshay071@.com**
 
 ---
 
