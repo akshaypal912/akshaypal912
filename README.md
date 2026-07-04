@@ -9,7 +9,7 @@
 - 🔍 I'm a **Data Analyst** passionate about uncovering stories hidden in data
 - 🐍 I work primarily with **Python** for data analysis, visualization & automation
 - 📈 I love transforming raw data into actionable insights and beautiful dashboards
-- 🌱 Always learning — currently exploring **Machine Learning & Predictive Analytics**
+- 🌱 Always learning - currently exploring **Machine Learning & Predictive Analytics**
 - 💬 Ask me about **Python, Data Analysis, SQL, or Data Visualization**
 - 📫 Reach me at: **palakshay071@gmail.com**
 
