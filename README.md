@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Akshay Pal 👋</h1>
 
-<h3 align="center">📊 Data Analyst | Python Enthusiast | Turning Data into Insights</h3>
+<h3 align="center">📊 Data Analyst | Python Enthusiast | Turning Data into Insights</h3>   |  AI Engineer
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔍 I'm a **Data Analyst** passionate about uncovering stories hidden in data
+- 🔍 I'm a **Data Analyst** **AND** ** AI Engineer** passionate about uncovering stories hidden in data
 - 🐍 I work primarily with **Python** for data analysis, visualization & automation
 - 📈 I love transforming raw data into actionable insights and beautiful dashboards
 - 🌱 Always learning - currently exploring **Machine Learning & Predictive Analytics**
