@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔍 I'm a **Data Analyst** **AND** ** AI Engineer** passionate about uncovering stories hidden in data
+- 🔍 I'm a **Data Analyst** AND **AI Engineer** passionate about uncovering stories hidden in data
 - 🐍 I work primarily with **Python** for data analysis, visualization & automation
 - 📈 I love transforming raw data into actionable insights and beautiful dashboards
 - 🌱 Always learning - currently exploring **Machine Learning & Predictive Analytics**
